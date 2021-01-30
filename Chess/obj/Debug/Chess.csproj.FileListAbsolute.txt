@@ -1,0 +1,14 @@
+C:\Users\Marios\source\repos\Home_Projects\Chess\obj\Debug\Chess.csprojAssemblyReference.cache
+C:\Users\Marios\source\repos\Home_Projects\Chess\obj\Debug\Chess.csproj.CoreCompileInputs.cache
+C:\Users\Marios\source\repos\Home_Projects\Chess\bin\Debug\Chess.exe.config
+C:\Users\Marios\source\repos\Home_Projects\Chess\bin\Debug\Chess.exe
+C:\Users\Marios\source\repos\Home_Projects\Chess\bin\Debug\Chess.pdb
+C:\Users\Marios\source\repos\Home_Projects\Chess\obj\Debug\Chess.exe
+C:\Users\Marios\source\repos\Home_Projects\Chess\obj\Debug\Chess.pdb
+C:\Users\Marios Michalopoulos\source\repos\Home_Projects\Chess\bin\Debug\Chess.exe.config
+C:\Users\Marios Michalopoulos\source\repos\Home_Projects\Chess\bin\Debug\Chess.exe
+C:\Users\Marios Michalopoulos\source\repos\Home_Projects\Chess\bin\Debug\Chess.pdb
+C:\Users\Marios Michalopoulos\source\repos\Home_Projects\Chess\obj\Debug\Chess.csprojAssemblyReference.cache
+C:\Users\Marios Michalopoulos\source\repos\Home_Projects\Chess\obj\Debug\Chess.csproj.CoreCompileInputs.cache
+C:\Users\Marios Michalopoulos\source\repos\Home_Projects\Chess\obj\Debug\Chess.exe
+C:\Users\Marios Michalopoulos\source\repos\Home_Projects\Chess\obj\Debug\Chess.pdb
